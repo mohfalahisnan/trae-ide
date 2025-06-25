@@ -1,0 +1,34 @@
+{
+  "editor.snippetSuggestions": "top",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "CaskaydiaCove, Fira Code Retina",
+  "editor.fontLigatures": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always",
+    "source.fixAll": "always"
+  },
+  "prettier.requireConfig": true,
+  "prettier.enable": true,
+  "eslint.enable": true,
+  "eslint.run": "onSave",
+  "terminal.integrated.minimumContrastRatio": 1,
+  "editor.semanticHighlighting.enabled": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.gpuAcceleration": "off",
+  "window.autoDetectColorScheme": false,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "breadcrumbs.enabled": false,
+  "vscode_custom_css.imports": [
+    "file:///g:/custom-vscode.css",
+    "file:///g:/vscode-script.js"
+  ],
+  "explorer.compactFolders": false,
+  "workbench.panel.showLabels": false,
+  "workbench.navigationControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.iconTheme": "catppuccin-mocha",
+  "workbench.colorTheme": "React Theme",
+}
